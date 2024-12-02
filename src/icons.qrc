@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>src/file.png</file>
+        <file>src/file_unsave.png</file>
+        <file>src/icon.png</file>
+    </qresource>
+</RCC>
